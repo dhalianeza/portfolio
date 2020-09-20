@@ -1,8 +1,8 @@
-# {portfolio}
-#### {be your own inspiration}, {2020}
-#### By **{myself}**
+# portfolio
+#### be your own inspiration, 2020
+#### Author: Nyiraneza Dalia
 ## Description
-{this project  was all to about to encourage all young ladies that they're powerful in world of technology} 
+This project  was all to about to encourage all young ladies that they're powerful in this world of technology
 ## Setup/Installation Requirements
 *  ubuntu
 * visual studio
@@ -10,13 +10,12 @@
 * html
 * css
  
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+
 ## Technologies Used
  html css ubuntu and visual studio
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+ For more details contact us  
+ email:dhalianeza02@gmail.com
 ### License
 MIT
-Copyright (c) {2020} 
-**{dhalianyiraneza}**
+Copyright (c) 2020, portfolio
